@@ -1,3 +1,10 @@
-# Fish Config
+# `coreutils.fish`
+Various personal tweaks to core OS utilities.
 
-Various personal fish configuration bits that are organized as fisher plugins.
+## Installation
+```
+$ fisher install wyvernzora/coreutils.fish
+```
+
+## License 
+WTFPL
